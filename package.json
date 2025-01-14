@@ -1,0 +1,26 @@
+{
+  "name": "practica03_jonathan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonathan2536/Practica03_Jonathan.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/Jonathan2536/Practica03_Jonathan/issues"
+  },
+  "homepage": "https://github.com/Jonathan2536/Practica03_Jonathan#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "express-session": "^1.18.1",
+    "moment-timezone": "^0.5.46"
+  }
+}
